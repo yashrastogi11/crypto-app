@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555693310389",
+    "firebase_url": "https://cryptoit-52b9d.firebaseio.com",
+    "project_id": "cryptoit-52b9d",
+    "storage_bucket": "cryptoit-52b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555693310389:android:41812daca8767655",
+        "android_client_info": {
+          "package_name": "com.yash.cryptoit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555693310389-efsbqh10ma5gl4fdp3evip0036v4tcj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yash.cryptoit",
+            "certificate_hash": "21d55020f3d27f5b13d5f3e811b57703338b77de"
+          }
+        },
+        {
+          "client_id": "555693310389-24gsk0uu3sqnjhamva497va8emtolqd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvvs1LxAJQbdWm8JmX5PD4b70B99djhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555693310389-24gsk0uu3sqnjhamva497va8emtolqd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
